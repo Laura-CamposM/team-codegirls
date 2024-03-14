@@ -6,4 +6,12 @@ body{
     display: flex;
     list-style: none;
     gap: 16px;
+    padding: 5%;
+    border: 1px dotted blue;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Imagen {
+    height: 50px;
 }
