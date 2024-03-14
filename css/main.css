@@ -5,13 +5,16 @@ body{
 .main-menu {
     display: flex;
     list-style: none;
-    gap: 16px;
-    padding: 5%;
+    gap: 8px;
+    padding: 2%;
     border: 1px dotted blue;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .Imagen {
-    height: 50px;
+   height: 300px;
+   margin: 0 auto;
+   display: block;
 }
