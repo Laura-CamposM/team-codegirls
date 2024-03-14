@@ -1,3 +1,9 @@
 body{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
+}
+
+.main-menu {
+    display: flex;
+    list-style: none;
+    gap: 16px;
 }
