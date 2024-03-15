@@ -6,12 +6,14 @@ body{
     color: black;
     font-size: 18px;
 }
+
 ul.menu-social {
     list-style: none;
     padding: 0;
     display: flex;
     gap: 12px;
     }
+
 .img-fururistic {
     height: 400px;
     width: 300px;
@@ -19,17 +21,34 @@ ul.menu-social {
     margin: auto;
 }
 
-
-
 img.img-futuristic {
     float: left;
     margin-right: 20px;
 }
 
-footer.footer {
-    clear: left;
-}
-
 a {
     margin: 10px;
 }
+
+
+.main-menu {
+    display: flex;
+    list-style: none;
+    gap: 8px;
+    padding: 2%;
+    border: 1px dotted blue;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.Imagen {
+   height: 300px;
+   margin: 0 auto;
+   display: block;
+}
+
+footer.footer {
+    clear: left;
+}
+>>>>>>> feature/header
