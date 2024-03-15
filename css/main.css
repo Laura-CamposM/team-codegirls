@@ -1,5 +1,10 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(149, 171, 201);
+}
+
+.main p {
+    color: black;
+    font-size: 18px;
 }
 ul.menu-social {
     list-style: none;
@@ -7,4 +12,24 @@ ul.menu-social {
     display: flex;
     gap: 12px;
     }
+.img-fururistic {
+    height: 400px;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+}
 
+
+
+img.img-futuristic {
+    float: left;
+    margin-right: 20px;
+}
+
+footer.footer {
+    clear: left;
+}
+
+a {
+    margin: 10px;
+}
